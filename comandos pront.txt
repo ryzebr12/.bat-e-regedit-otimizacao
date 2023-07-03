@@ -1,0 +1,23 @@
+##erro na formatação e criação de conta
+
+diskpart
+list disk
+select disk "digite o disco"
+clean
+create partition primary
+active
+----------------------------------------------------
+mrt = scan arquivos maliciosos
+ms-settings:sound = definição de sons
+sfc /scannow
+----------------------------------------------------
+install park control
+_____________________________________________________
+apk customize
+
+aida64
+msi afterburner
+cpuz
+gpuz
+rivatuner
+furmark
